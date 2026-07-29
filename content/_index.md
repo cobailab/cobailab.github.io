@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Laboratory of Computational Biophysics and AI-driven BioEngineering
+        Laboratory of Computational Biophysics and AI-driven Bioengineering
       image:
         filename: welcome.jpg
       text: |
