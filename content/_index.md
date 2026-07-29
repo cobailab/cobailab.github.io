@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The <strong><u>Co</u></strong>mputational <strong><u>B</u></strong>iophysics and <strong><u>AI</u></strong>-driven Bioengineering (**CoBAI Lab**) develops computational and AI-driven approaches to understand, model, and engineer biomolecular systems.
+        The <strong><u>Co</u></strong>mputational <strong><u>B</u></strong>iophysics and <strong><u>AI</u></strong>-driven Bioengineering Laboratory (**CoBAI Lab**) develops computational and AI-driven approaches to understand, model, and engineer biomolecular systems.
   
   - block: collection
     content:
