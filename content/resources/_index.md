@@ -23,7 +23,7 @@ sections:
 
   - block: collection
     content:
-      title: Software and Tools
+      title: Software and Dataset Tools
       subtitle: ""
       text: ""
       count: 0
