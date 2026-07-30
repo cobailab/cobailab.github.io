@@ -7,3 +7,40 @@
 .cta-group {
   justify-content: center;
 }
+/* Homepage Hero: smaller text and larger welcome image */
+@media (min-width: 992px) {
+  #section-hero .row {
+    align-items: center;
+  }
+
+  /* Left text column: 50% → 40% */
+  #section-hero .row > div:first-child {
+    flex: 0 0 40%;
+    max-width: 40%;
+  }
+
+  /* Right image column: 50% → 60% */
+  #section-hero .hero-media {
+    flex: 0 0 60%;
+    max-width: 60%;
+  }
+
+  /* Main title */
+  #section-hero .hero-title {
+    font-size: 2.1rem;
+    line-height: 1.08;
+  }
+
+  /* Introductory paragraph */
+  #section-hero .hero-lead {
+    font-size: 1rem;
+    line-height: 1.65;
+  }
+
+  /* Let the image fill its enlarged column */
+  #section-hero .hero-media img {
+    width: 100%;
+    max-width: none;
+    height: auto;
+  }
+}
