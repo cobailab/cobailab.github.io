@@ -12,9 +12,9 @@ sections:
   - block: markdown
     content:
       text: |-
-        The Computational Biophysics and AI-Driven Bioengineering Laboratory (CoBAI Lab) develops computational and AI-driven approaches to understand, model, and engineer biomolecular systems.
+        At CoBAI Lab, we study how RNA and DNA take shape, move, interact, and carry out biological functions. We bring together experimental data, molecular simulations, theoretical models, and artificial intelligence to turn complex molecular behavior into clear and predictive models.
 
-        Our research spans three interconnected directions: developing computational tools for nucleic-acid modeling, integrating artificial intelligence with biophysical research, and designing functional RNA systems.
+        These models help us uncover how nucleic acids work and guide the design of functional RNA and nucleic-acid therapeutics. Our research connects fundamental biophysics with broader applications in biology, medicine, and biomolecular engineering.
 
 
   # ==========================================================
@@ -28,22 +28,13 @@ sections:
         <div class="row align-items-center">
           <div class="col-md-8">
 
-            <p>
-              We develop physics-based and data-driven computational tools to describe the structure, dynamics, and energetics of single-stranded RNA and other nucleic-acid systems.
-            </p>
-
-            <p>
-              Our goal is to translate fundamental molecular understanding into accurate, interpretable, and reusable modeling approaches.
-            </p>
+          We develop computational tools that combine experimental data with molecular simulations and artificial intelligence.<br><br>
+          These tools help us describe the structures and motions of flexible RNA and DNA in realistic environments and build molecular models that are accurate, interpretable, and useful to other researchers.
 
           </div>
 
           <div class="col-md-4 text-center">
-            <img
-              src="/uploads/nucleic-acid-modeling.jpg"
-              alt="Nucleic acid modeling tools"
-              style="width:92%; max-width:320px; border-radius:8px;"
-            >
+            <img src="/uploads/nucleic-acid-modeling.jpg" alt="Nucleic acid modeling tools" style="width:92%; max-width:320px; border-radius:8px;">
           </div>
         </div>
 
@@ -57,27 +48,18 @@ sections:
 
   - block: markdown
     content:
-      title: AI-Assisted Biophysics
+      title: Functional RNA Design and Engineering
       text: |-
         <div class="row align-items-center">
           <div class="col-md-8">
 
-            <p>
-              We integrate molecular simulation, structural bioinformatics, and machine learning to investigate biomolecular structures, dynamics, and mechanisms.
-            </p>
-
-            <p>
-              Artificial intelligence helps us extract interpretable relationships from complex molecular data and accelerate biophysical discovery.
-            </p>
+          We study how RNA sequence, structure, chemical modification, and molecular environment work together to control biological function.<br><br>
+          By combining molecular simulation, artificial intelligence, and experimental validation, we aim to design RNA molecules and modifications with predictable properties for biotechnology and therapeutic applications.
 
           </div>
 
           <div class="col-md-4 text-center">
-            <img
-              src="/uploads/ai-assisted-biophysics.jpg"
-              alt="AI-assisted biophysics"
-              style="width:92%; max-width:320px; border-radius:8px;"
-            >
+            <img src="/uploads/functional-rna-engineering.jpg" alt="Functional RNA design and engineering" style="width:92%; max-width:320px; border-radius:8px;">
           </div>
         </div>
 
@@ -91,27 +73,18 @@ sections:
 
   - block: markdown
     content:
-      title: Functional RNA Design and Engineering
+      title: RNA Bioinformatics
       text: |-
         <div class="row align-items-center">
           <div class="col-md-8">
 
-            <p>
-              We combine predictive modeling, molecular biophysics, and AI-guided design to engineer RNA sequences and structures with desired properties and functions.
-            </p>
-
-            <p>
-              This direction connects mechanistic understanding with the development of programmable and functional biomolecular systems.
-            </p>
+          We develop bioinformatics and AI methods to predict RNA structure from sequence and connect structural information with genomic data.<br><br>
+          At larger scales, we seek to discover functional RNA elements, understand how sequence variation changes RNA structure and function, and identify patterns that can guide experiments and biomedical research.
 
           </div>
 
           <div class="col-md-4 text-center">
-            <img
-              src="/uploads/functional-rna-engineering.jpg"
-              alt="Functional RNA design and engineering"
-              style="width:92%; max-width:320px; border-radius:8px;"
-            >
+            <img src="/uploads/rna-bioinformatics.jpg" alt="RNA bioinformatics and structure prediction" style="width:92%; max-width:320px; border-radius:8px;">
           </div>
         </div>
 
