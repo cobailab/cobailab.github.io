@@ -62,3 +62,11 @@ Copy the GROMACS-compatible force-field folder into your working directory:
 
 ```bash
 cp -r HB_cufix_RNA.ff /path/to/your/working/directory/
+
+## Associated Publication
+
+Weiwei He, Nawavi Naleem, Diego Kleiman, and Serdal Kirmizialtin.  
+**“Refining the RNA Force Field with Small-Angle X-ray Scattering of Helix-Junction-Helix RNA.”**  
+*The Journal of Physical Chemistry Letters* **2022**, **13**, 3400–3408.  
+
+[View Publication](https://doi.org/10.1021/acs.jpclett.2c00359)
