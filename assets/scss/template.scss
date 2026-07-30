@@ -15,19 +15,19 @@
 
   /* Left text column: 50% → 40% */
   #section-hero .row > div:first-child {
-    flex: 0 0 40%;
-    max-width: 40%;
+    flex: 0 0 45%;
+    max-width: 45%;
   }
 
   /* Right image column: 50% → 60% */
   #section-hero .hero-media {
-    flex: 0 0 60%;
-    max-width: 60%;
+    flex: 0 0 55%;
+    max-width: 55%;
   }
 
   /* Main title */
   #section-hero .hero-title {
-    font-size: 2.1rem;
+    font-size: 2.2rem;
     line-height: 1.08;
   }
 
