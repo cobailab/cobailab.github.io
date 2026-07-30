@@ -12,9 +12,8 @@ sections:
   - block: markdown
     content:
       text: |-
-        We develop computational tools and resources for studying biomolecular structure, dynamics, and function. These resources bring together molecular modeling, simulation, bioinformatics, and artificial intelligence to support research on nucleic acids and other biomolecular systems.
-
-        Our software and data resources are designed to make advanced computational methods more accessible, reproducible, and useful to the broader scientific community.
+        We develop computational tools and resources for studying biomolecular structure, dynamics, and function. Our software and data resources are designed to make advanced computational methods more accessible, reproducible, and useful to the broader scientific community.
+    # These resources bring together molecular modeling, simulation, bioinformatics, and artificial intelligence to support research on nucleic acids and other biomolecular systems.
 
 
   # ==========================================================
