@@ -62,6 +62,7 @@ Copy the GROMACS-compatible force-field folder into your working directory:
 
 ```bash
 cp -r HB_cufix_RNA.ff /path/to/your/working/directory/
+```
 
 ## Associated Publication
 
