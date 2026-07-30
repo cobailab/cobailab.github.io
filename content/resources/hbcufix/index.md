@@ -35,7 +35,7 @@ HB-CUFIX is an RNA force-field refinement developed using small-angle X-ray scat
 
 The force field has been evaluated using helix-junction-helix RNA duplexes and single-stranded RNA systems, providing improved descriptions of both structured and flexible RNA molecules.
 
-![Overview of HB-CUFIX corrections for balanced RNA interactions](hbcufix-overview.png)
+![Overview of HB-CUFIX corrections for balanced RNA interactions](HBCUFIX.png)
 
 *HB-CUFIX extends the CUFIX framework through refined hydrogen-bonding and base-stacking interactions for RNA simulations.*
 
@@ -51,13 +51,10 @@ The force field has been evaluated using helix-junction-helix RNA duplexes and s
 
 ## Software and Force-Field Files
 
-The original HB-CUFIX force-field files are available from the Kirmizialtin Lab GitLab repository:
+The HB-CUFIX force-field files are available from the following repository:
 
-- [Original HB-CUFIX GitLab repository](https://gitlab.com/KirmizialtinLab/hb_cufix)
-
-After creating the CoBAI mirror, add:
-
-- [CoBAI Lab GitHub repository](https://github.com/cobailab/hb-cufix)
+- [GitLab repository](https://gitlab.com/KirmizialtinLab/hb_cufix)
+- [GitHub repository](https://github.com/cobailab/hb-cufix)
 
 ## Installation
 
