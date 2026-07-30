@@ -12,9 +12,9 @@ sections:
   - block: markdown
     content:
       text: |-
-        At CoBAI Lab, we study how RNA and DNA take shape, move, interact, and carry out biological functions. We bring together experimental data, molecular simulations, theoretical models, and artificial intelligence to turn complex molecular behavior into clear and predictive models.
+        As a group, we study how biomacromolecules (including RNA, DNA, and proteins) take shape, move, interact, and carry out biological functions. We combine experimental data, molecular simulations, theoretical models, and artificial intelligence to turn complex molecular behavior into clear and predictive understanding.
 
-        These models help us uncover how nucleic acids work and guide the design of functional RNA and nucleic-acid therapeutics. Our research connects fundamental biophysics with broader applications in biology, medicine, and biomolecular engineering.
+        These approaches help us uncover the physical principles that govern biomolecular structure and function and guide the design of functional biomolecules and nucleic-acid-based therapeutics. Our research connects fundamental biophysics with broader applications in biology, medicine, and biomolecular engineering.  
 
 
   # ==========================================================
