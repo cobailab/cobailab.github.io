@@ -29,8 +29,8 @@ The converted files are intended to make the original DES-AMBER parameters more 
 
 ## Force-Field Files
 
-- [Download DES-AMBER for GROMACS](/downloads/Des_AMBER.ff.zip)
-- [Browse the GROMACS-compatible files on GitHub](https://github.com/cobailab/cobailab.github.io/tree/main/content/resources/des-amber/Des_AMBER.ff)
+- [Download DES-AMBER for GROMACS](https://cobailab.github.io/downloads/Des_AMBER.ff.zip)
+- [Browse the GROMACS-compatible files on GitLab](https://gitlab.com/KirmizialtinLab/des_amber/)
 
 ## Installation
 
