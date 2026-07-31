@@ -60,7 +60,7 @@ The converted files provide a practical implementation of DES-AMBER for GROMACS 
 
 Please report any conversion-related issues or inconsistencies so that the resource can be further evaluated and improved.
 
-## Original Publication
+## Original Reference
 
 Dazhi Tan, Stefano Piana, Robert M. Dirks, and David E. Shaw.
 
