@@ -1,5 +1,5 @@
 ---
-title: "HB-CUFIX"
+title: "HB-CUFIX for GROMACS"
 
 summary: "An experimentally refined RNA force field that improves the structural and dynamic accuracy of RNA molecular dynamics simulations."
 
