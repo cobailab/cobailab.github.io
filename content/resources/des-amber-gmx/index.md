@@ -55,8 +55,11 @@ DES_AMBER: GROMACS-compatible version of the DES-AMBER RNA force field
 ```
 
 ## Compatibility and Validation
+<!--
+The converted files provide a practical implementation of DES-AMBER for GROMACS and have been used in our RNA simulation workflow. Because force-field conversion can involve differences in topology conventions, parameter mapping, and software versions, 
+-->
 
-The converted files provide a practical implementation of DES-AMBER for GROMACS and have been used in our RNA simulation workflow. Because force-field conversion can involve differences in topology conventions, parameter mapping, and software versions, users are encouraged to inspect the generated topology and validate representative systems before beginning production simulations.
+Users are encouraged to inspect the generated topology and validate representative systems before beginning production simulations.
 
 Please report any conversion-related issues or inconsistencies so that the resource can be further evaluated and improved.
 
