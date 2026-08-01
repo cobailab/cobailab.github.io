@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Weiwei He
+title: Weiwei He (何伟渭)
 
 # Full Name (for SEO)
 first_name: Weiwei
@@ -14,7 +14,7 @@ role: Professor of Biophysics
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen University of Advanced Technology
+  - name: Shenzhen University of Advanced Technology (深圳理工大学)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
