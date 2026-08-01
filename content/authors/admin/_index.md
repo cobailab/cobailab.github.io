@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on computational biophysics, AI-driven biomolecular modeling, and RNA models.
 
 interests:
   - Computational Biophysics
