@@ -10,11 +10,11 @@ last_name: He
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Biophysics
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Shenzhen University of Advanced Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,7 +44,7 @@ social:
     link: 'mailto:weiwei.he@nyu.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/WeiweiHe_123
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=2jRvAmwAAAAJ
