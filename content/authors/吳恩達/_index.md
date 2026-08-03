@@ -13,6 +13,9 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+# Hide this profile from the published website
+draft: true
+
 # Role/position
 role: Professor of Artificial Intelligence
 
