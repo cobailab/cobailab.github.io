@@ -54,7 +54,7 @@ The force field has been evaluated using helix-junction-helix RNA duplexes and s
 
 The HB-CUFIX force-field files are available from the following repository:
 
-- [GitHub repository](https://cobailab.github.io/downloads/HB_cufix_RNA.ff.zip)
+- [GitHub repository](https://cobailab.github.io/downloads/software)
 - [GitLab repository](https://gitlab.com/KirmizialtinLab/hb_cufix)
 
 ## Installation
