@@ -1,5 +1,5 @@
 ---
-title: Frontier of Biotech Conference at HKUST
+title: 2026 HKUST Frontier of Biotech Conference
 
 event: "Frontier of Biotech: From System Biology to Whole Cell Methodology"
 event_url: https://leo3233.github.io/Frontier-of-Biotech/index.html
