@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: publication
     weight: 40
-  - name: Resources
+  - name: Teaching & Resources
     url: resources
     weight: 50
   - name: News
