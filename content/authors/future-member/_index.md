@@ -9,4 +9,5 @@ organizations:
 bio: We welcome motivated students and researchers to join our team.
 user_groups:
   - Researchers
+  - Visitors
 ---
