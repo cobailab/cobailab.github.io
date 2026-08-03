@@ -28,7 +28,7 @@ This resource provides a GROMACS-compatible conversion of the DES-AMBER RNA forc
 
 ## Force-Field Files
 
-- [Download DES-AMBER for GROMACS](https://cobailab.github.io/downloads/software)
+- [Download DES-AMBER for GROMACS (.zip)](/downloads/software/)
 - [Browse the GROMACS-compatible files on GitLab](https://gitlab.com/KirmizialtinLab/des_amber/)
 
 ## Installation
