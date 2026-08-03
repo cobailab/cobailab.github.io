@@ -9,11 +9,12 @@ authors:
   - admin
 
 tags:
-  - "Software"
-  - "RNA"
-  - "Force Field"
-  - "Molecular Dynamics"
-  - "GROMACS"
+  - Tool
+  - Software
+  - Force Field
+  - Molecular Dynamics
+  - AMBER
+  - GROMACS
 
 featured: false
 
