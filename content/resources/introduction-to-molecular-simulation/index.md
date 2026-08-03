@@ -31,6 +31,7 @@ These teaching materials provide an introduction to molecular simulation methods
 ## Materials
 
 Course materials will be made available here.
+- [e.g. Lecture notes](/downloads/teaching/introduction-to-molecular-simulation/lecture-notes.pdf)
 
 ## Topics
 
