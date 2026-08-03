@@ -1,5 +1,5 @@
 ---
-title: Frontier of Biotech
+title: Frontier of Biotech Conference at HKUST
 
 event: "Frontier of Biotech: From System Biology to Whole Cell Methodology"
 event_url: https://leo3233.github.io/Frontier-of-Biotech/index.html
@@ -35,4 +35,4 @@ slides:
 projects:
 ---
 
-Invited by **Prof. Haibin Su** to give an Oral Talk in the *Frontier of Biotech: From System Biology to Whole Cell Methodology* workshop at **HKUST**, June 28–30, 2026.
+Weiwei He gave an Invited Talk in the *Frontier of Biotech: From System Biology to Whole Cell Methodology* workshop at **HKUST**, June 28–30, 2026.
