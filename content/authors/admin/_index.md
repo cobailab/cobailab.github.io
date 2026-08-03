@@ -67,6 +67,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
+  - Researchers
 ---
 
 Weiwei He is an incoming Assistant Professor at the Faculty of Synthetic Biology, Shenzhen University of Advanced Technology (SUAT), starting in Spring 2027. He leads the Computational Biophysics & AI-Driven Biomolecular Engineering Laboratory (CoBAI Lab), focusing on computational biophysics of nucleic acids, AI-driven biomolecular modeling and design, and RNA language models.
