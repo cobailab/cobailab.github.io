@@ -9,12 +9,13 @@ authors:
   - admin
 
 tags:
-  - "Software"
-  - "RNA"
-  - "Force Field"
-  - "Molecular Dynamics"
-  - "SAXS"
-  - "GROMACS"
+  - Tool
+  - Software
+  - RNA
+  - Force Field
+  - Molecular Dynamics
+  - SAXS
+  - GROMACS
 
 featured: false
 
