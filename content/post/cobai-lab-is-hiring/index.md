@@ -2,7 +2,7 @@
 title: "CoBAI Lab is Hiring"
 date: 2026-08-03
 
-summary: "We are looking for motivated researchers to join CoBAI Lab."
+summary: "We are actively looking for motivated researchers to join the CoBAI Lab, starting in Spring 2027."
 
 authors:
   - admin
