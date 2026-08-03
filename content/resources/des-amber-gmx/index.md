@@ -24,13 +24,11 @@ external_link: ""
 
 ## Overview
 
-This resource provides a GROMACS-compatible conversion of the DES-AMBER RNA force field introduced by Tan and co-workers. The original force-field parameters have been organized into a GROMACS `.ff` directory so that DES-AMBER can be selected and used through standard GROMACS workflows.
-
-The converted files are intended to make the original DES-AMBER parameters more accessible to researchers performing RNA molecular dynamics simulations with GROMACS. This GROMACS-compatible version was also used in the simulations associated with our HB-CUFIX study.
+This resource provides a GROMACS-compatible conversion of the DES-AMBER RNA force field introduced by Tan and co-workers. The original force-field parameters have been organized into a GROMACS `.ff` directory so that DES-AMBER can be selected and used through standard GROMACS workflows. The converted files are intended to make the original DES-AMBER parameters more accessible to researchers performing RNA molecular dynamics simulations with GROMACS. 
 
 ## Force-Field Files
 
-- [Download DES-AMBER for GROMACS](https://cobailab.github.io/downloads/Des_AMBER.ff.zip)
+- [Download DES-AMBER for GROMACS](https://cobailab.github.io/downloads/software)
 - [Browse the GROMACS-compatible files on GitLab](https://gitlab.com/KirmizialtinLab/des_amber/)
 
 ## Installation
@@ -49,11 +47,7 @@ Prepare the RNA system using `gmx pdb2gmx`:
 gmx pdb2gmx -f RNA_structure.pdb
 ```
 
-When prompted to select a force field, choose the DES-AMBER entry from the current working directory:
-
-```text
-DES_AMBER: GROMACS-compatible version of the DES-AMBER RNA force field
-```
+When prompted to select a force field, choose the DES-AMBER entry from the current working directory
 
 ## Compatibility and Validation
 <!--
