@@ -19,33 +19,6 @@ sections:
       columns: "1"
 
   # ==========================================================
-  # Software and dataset tools
-  # ==========================================================
-
-  - block: collection
-    content:
-      title: Software and Dataset Tools
-      subtitle: ""
-      text: ""
-      count: 0
-
-      filters:
-        folders:
-          - resources
-        tag: Tool
-        category: ""
-        publication_type: ""
-        author: ""
-        exclude_featured: false
-
-      offset: 0
-      order: desc
-
-    design:
-      view: card
-      columns: "2"
-
-  # ==========================================================
   # Teaching materials
   # ==========================================================
 
@@ -60,6 +33,33 @@ sections:
         folders:
           - resources
         tag: Teaching
+        category: ""
+        publication_type: ""
+        author: ""
+        exclude_featured: false
+
+      offset: 0
+      order: desc
+
+    design:
+      view: card
+      columns: "2"
+
+  # ==========================================================
+  # Software and dataset tools
+  # ==========================================================
+
+  - block: collection
+    content:
+      title: Software and Dataset Tools
+      subtitle: ""
+      text: ""
+      count: 0
+
+      filters:
+        folders:
+          - resources
+        tag: Tool
         category: ""
         publication_type: ""
         author: ""
