@@ -12,7 +12,7 @@ address:
   region: "Pudong New District"
   country: "China"
 
-summary: "Presented our research and joined interdisciplinary discussions on biophysics, protein engineering, and computational biology at NYU Shanghai."
+summary: "Workshop on biophysics, protein engineering, and computational biology at NYU Shanghai."
 
 abstract: ""
 
@@ -56,5 +56,5 @@ Weiwei He presented his research at the **2026 International Workshop on Biophys
 
 The workshop brought together researchers working across biophysics, protein engineering, computational biology, artificial intelligence, and molecular simulation. It provided valuable opportunities to exchange ideas, discuss emerging research directions, and build new scientific connections.
 
-![Research presentation at the 2026 International Workshop at NYU Shanghai](featured.jpg)
-![Scientific exchange at the 2026 International Workshop at NYU Shanghai](workshop-photo-2.jpg)
+![Research presentations](featured.jpg)
+![Research presentations 2](workshop-photo-2.jpg)
