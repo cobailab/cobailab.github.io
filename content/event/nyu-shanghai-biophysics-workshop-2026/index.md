@@ -1,7 +1,7 @@
 ---
 title: "2026 International Workshop on Biophysics, Protein Engineering and Computational Biology"
 
-draft: true
+draft: false
 
 event: "2026 International Workshop on Biophysics, Protein Engineering and Computational Biology"
 event_url: "https://computational-chemistry-conference.shanghai.nyu.edu/page/home"
