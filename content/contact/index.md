@@ -10,36 +10,40 @@ sections:
   # ==========================================================
   - block: markdown
     content:
-      title: Join CoBAI Lab
+      title: Join the Group
       subtitle: ""
       text: |-
-        CoBAI Lab is being established at [Shenzhen University of Advanced Technology (SUAT)](https://www.suat-sz.edu.cn/en/) and is expected to begin its work in Spring 2027. The group will combine molecular simulations, experimental data, theoretical modeling, and artificial intelligence to understand and engineer biomolecular systems, with particular interests in nucleic acids, biomolecular dynamics, and AI-driven molecular modeling.
+        CoBAI Lab is being established at [Shenzhen University of Advanced Technology (SUAT)](https://www.suat-sz.edu.cn/en/) and is expected to begin its work in Spring 2027. The group will combine molecular simulations, synthetic biology, theoretical modeling, and artificial intelligence to understand and engineer biomolecular systems, with particular interests in nucleic acids, biomolecular dynamics, and AI-driven molecular designs.
 
         ## Prospective Opportunities
 
         While formal vacancies and start dates are still being finalized, we welcome early enquiries from prospective:
 
-        - Postdoctoral researchers and research assistant professors
-        - PhD students
-        - Research assistants
+        - 2 Postdocs / Research Assistant Professors
+        - 1 PhD student enrolled in Fall 2027
+        - 1-2 Research Assistants
         - Visiting students and research interns
 
-        Applicants from chemistry, physics, biophysics, computational biology, bioinformatics, computer science, applied mathematics, and related disciplines are encouraged to get in touch. Prior experience in molecular simulation, machine learning, nucleic-acid research, or scientific programming is helpful but not required for every position.
+        Applicants from chemistry, physics, computational biology, bioinformatics, computer science, applied mathematics, and related disciplines are encouraged to get in touch. Prior experience in molecular simulation, machine learning, nucleic-acid research, or scientific programming is helpful but not required for every position.
 
-        ## How to Express Interest
+        Interested candidates can [email Weiwei He](mailto:weiwei.he@nyu.edu) with a CV, a brief statement of research interests, academic transcripts (for student applicants), and 1-2 representative papers, preprints, or project examples, if available. Applicants can generally expect a response within 1-2 weeks.
 
-        Interested candidates may contact [Weiwei He](https://warrenheww.github.io/) with the following materials:
+        **Email subject line format:**
 
-        - A curriculum vitae (CV)
-        - A brief description of research interests and relevant experience
-        - Academic transcripts for student applicants
-        - One or two representative papers, preprints, or project examples, if available
+        - **PhD applicants:**  
+          `[CoBAI PhD Inquiry] Your Name | Current Institution`
+
+        - **Postdoctoral applicants:**  
+          `[CoBAI Postdoc Inquiry] Your Name | Current Institution | Preferred Start Date`
+
+        - **Research Assistant Professor (RAP) applicants:**  
+          `[CoBAI RAP Inquiry] Your Name | Current Institution | Preferred Start Date`
 
         Early enquiries are welcome. Specific openings, eligibility requirements, application procedures, and anticipated start dates will be posted here once the institutional recruitment arrangements are finalized.
 
         ## Our Research Environment
 
-        We aim to build an interdisciplinary, collaborative, and supportive research environment. Group members will be encouraged to develop strong foundations in molecular science, computation, and data-driven modeling while pursuing independent ideas and working across disciplinary boundaries.
+        We aim to build an interdisciplinary, collaborative, and supportive research environment. Group members will be encouraged to develop strong foundations in molecular science, computation, and artificial intelligence while pursuing independent ideas and working across disciplinary boundaries.
     design:
       columns: "1"
 
