@@ -1,6 +1,8 @@
 ---
 title: Coming Soon
 
+draft: true
+
 event: Coming Soon
 event_url: https://example.org
 
