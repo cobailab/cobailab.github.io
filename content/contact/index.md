@@ -50,7 +50,7 @@ sections:
     content:
       title: Location
       text: |-
-        [Shenzhen University of Advanced Technology (SUAT)](https://www.suat-sz.edu.cn/en/)
+        [Faculty of Synthetic Biology, Shenzhen University of Advanced Technology (SynBio, SUAT, 深圳理工大学 合成生物学院)](https://www.suat-sz.edu.cn/en/)
 
       address:
         street: No. 1 Gongchang Road
