@@ -42,6 +42,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:weiwei.he@nyu.edu'
+  - icon: home
+    icon_pack: fas
+    link: 'https://warrenheww.github.io/'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/WeiweiHe_123
