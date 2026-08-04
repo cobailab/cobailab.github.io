@@ -19,14 +19,14 @@ sections:
 
         While formal vacancies and start dates are still being finalized, we welcome early enquiries from prospective:
 
-        - 2 Postdocs / Research Assistant Professors
+        - 2 Postdocs/Research Assistant Professors
         - 1 PhD student enrolled in Fall 2027
         - 1-2 Research Assistants
         - Visiting students and research interns
 
         Applicants from chemistry, physics, computational biology, bioinformatics, computer science, applied mathematics, and related disciplines are encouraged to get in touch. Prior experience in molecular simulation, machine learning, nucleic-acid research, or scientific programming is helpful but not required for every position.
 
-        Interested candidates can [email Weiwei He](mailto:weiwei.he@nyu.edu) with a CV, a brief statement of research interests, academic transcripts (for student applicants), and 1-2 representative papers, preprints, or project examples, if available. Applicants can generally expect a response within 1-2 weeks.
+        Interested candidates can [email Weiwei He](mailto:weiwei.he@nyu.edu) with a CV, a brief statement of research interests, academic transcripts (for student applicants), and 1-2 representative papers/preprints/project examples (if available). Applicants can generally expect a response within 1-2 weeks.
 
         **Email subject line format:**
 
@@ -54,7 +54,7 @@ sections:
     content:
       title: Location
       text: |-
-        [Faculty of Synthetic Biology, Shenzhen University of Advanced Technology (SynBio, SUAT, 深圳理工大学 合成生物学院)](https://www.suat-sz.edu.cn/en/)
+        [Faculty of Synthetic Biology, Shenzhen University of Advanced Technology (SUAT SynBio ｜ 深圳理工大学 合成生物学院)](https://synbio.suat-sz.edu.cn/en/)
 
       address:
         street: No. 1 Gongchang Road
