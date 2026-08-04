@@ -53,7 +53,7 @@ slides: ""
 projects: []
 ---
 
-The workshop, held at **NYU Shanghai** on July 21–23, 2026, brought together researchers working across biophysics, protein engineering, computational biology, artificial intelligence, and molecular simulation. Weiwei He presented his research at the workshop.
+Weiwei He presented his research at the **2026 International Workshop on Biophysics, Protein Engineering and Computational Biology**, held at **NYU Shanghai** on July 21–23, 2026. The workshop, orgnized by Prof. [Fei Xia](https://faculty.ecnu.edu.cn/_s34/xf2/main.psp), brought together researchers working across biophysics, protein engineering, computational biology, artificial intelligence, and molecular simulation.
 
 ![Research presentations](featured.jpg)
 ![Research presentations 2](workshop-photo-2.jpg)
