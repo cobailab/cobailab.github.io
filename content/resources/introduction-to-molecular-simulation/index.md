@@ -3,7 +3,7 @@ title: "Introduction to Molecular Simulation"
 
 summary: "Lecture notes and practical materials introducing molecular simulation methods for biomolecular systems."
 
-date: "2027-01-01T00:00:00Z"
+date: "2026-08-03T00:00:00Z"
 
 authors:
   - admin
