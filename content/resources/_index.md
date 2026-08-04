@@ -24,7 +24,7 @@ sections:
 
   - block: collection
     content:
-      title: Teaching Materials
+      title: Teaching
       subtitle: ""
       text: "Course materials, tutorials, and educational resources will be added here."
       count: 0
