@@ -9,7 +9,7 @@ address:
   city: Hong Kong
   country: China
 
-summary: Invited by Prof. Haibin Su to participate in the Frontier of Biotech workshop at HKUST.
+summary: Invited by Prof. Haibin Su to give a talk in the Frontier of Biotech workshop at HKUST.
 
 date: '2026-06-28T09:00:00+08:00'
 date_end: '2026-06-30T18:00:00+08:00'
