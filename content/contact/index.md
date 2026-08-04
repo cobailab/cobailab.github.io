@@ -13,7 +13,7 @@ sections:
       title: Join the Group
       subtitle: ""
       text: |-
-        CoBAI Lab is being established at [Shenzhen University of Advanced Technology (SUAT)](https://www.suat-sz.edu.cn/en/) and is expected to begin its work in Spring 2027. The group will combine molecular simulations, synthetic biology, theoretical modeling, and artificial intelligence to understand and engineer biomolecular systems, with particular interests in nucleic acids, biomolecular dynamics, and AI-driven molecular designs.
+        CoBAI Lab is being established at [Shenzhen University of Advanced Technology (SUAT)](https://www.suat-sz.edu.cn/en/) and is expected to begin its work in Winter 2026/Spring 2027. The group will combine molecular simulations, synthetic biology, theoretical modeling, and artificial intelligence (AI) to understand and engineer biomolecular systems, with particular interests in nucleic acids, biomolecular dynamics, and AI-driven molecular designs.
 
         ## Prospective Opportunities
 
