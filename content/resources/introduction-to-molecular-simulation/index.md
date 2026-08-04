@@ -29,7 +29,7 @@ image:
 Introduction to molecular simulation methods and their applications to biomolecular systems.
 
 Course materials available here.
-- [Lecture notes](/downloads/teaching/introduction-to-molecular-simulation/lecture-notes.pdf)
+- [Lecture notes](/downloads/teaching/lecture-notes.pdf)
 
 ## Topics
 
