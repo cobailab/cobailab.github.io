@@ -35,7 +35,6 @@ tags:
   - Molecular Simulation
 
 featured: false
-draft: false
 
 image:
   caption: "2026 International Workshop on Biophysics, Protein Engineering and Computational Biology at NYU Shanghai."
