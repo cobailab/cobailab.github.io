@@ -31,13 +31,13 @@ sections:
         **Email subject line format:**
 
         - **PhD applicants:**  
-          `[CoBAI PhD Inquiry] Your Name | Current Institution`
+          `[CoBAI PhD Application] Your Name | Current Institution`
 
         - **Postdoctoral applicants:**  
-          `[CoBAI Postdoc Inquiry] Your Name | Current Institution | Preferred Start Date`
+          `[CoBAI Postdoc Application] Your Name | Current Institution | Preferred Start Date`
 
         - **Research Assistant Professor (RAP) applicants:**  
-          `[CoBAI RAP Inquiry] Your Name | Current Institution | Preferred Start Date`
+          `[CoBAI RAP Application] Your Name | Current Institution | Preferred Start Date`
 
         Early enquiries are welcome. Specific openings, eligibility requirements, application procedures, and anticipated start dates will be posted here once the institutional recruitment arrangements are finalized.
 
