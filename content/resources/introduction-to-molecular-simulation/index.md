@@ -24,14 +24,12 @@ image:
   preview_only: false
 ---
 
-## Overview
+## Materials Overview 
 
-These teaching materials provide an introduction to molecular simulation methods and their applications to biomolecular systems.
-
-## Materials
+Introduction to molecular simulation methods and their applications to biomolecular systems.
 
 Course materials available here.
-- [e.g. Lecture notes](/downloads/teaching/introduction-to-molecular-simulation/lecture-notes.pdf)
+- [Lecture notes](/downloads/teaching/introduction-to-molecular-simulation/lecture-notes.pdf)
 
 ## Topics
 
