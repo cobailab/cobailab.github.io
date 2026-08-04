@@ -1,69 +1,75 @@
 ---
-title: Contact
-date: 2022-10-24
+title: Join Us
+date: 2026-08-04
 
 type: landing
 
 sections:
-  - block: contact
-    content:
-      title: Contact
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
-      autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '1'
-
+  # ==========================================================
+  # Current recruitment information
+  # ==========================================================
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
+      title: Join CoBAI Lab
+      subtitle: ""
+      text: |-
+        CoBAI Lab is being established at [Shenzhen University of Advanced Technology (SUAT)](https://www.suat-sz.edu.cn/en/) and is expected to begin its work in Spring 2027. The group will combine molecular simulations, experimental data, theoretical modeling, and artificial intelligence to understand and engineer biomolecular systems, with particular interests in nucleic acids, biomolecular dynamics, and AI-driven molecular modeling.
+
+        ## Prospective Opportunities
+
+        While formal vacancies and start dates are still being finalized, we welcome early enquiries from prospective:
+
+        - Postdoctoral researchers and research assistant professors
+        - PhD students
+        - Research assistants
+        - Visiting students and research interns
+
+        Applicants from chemistry, physics, biophysics, computational biology, bioinformatics, computer science, applied mathematics, and related disciplines are encouraged to get in touch. Prior experience in molecular simulation, machine learning, nucleic-acid research, or scientific programming is helpful but not required for every position.
+
+        ## How to Express Interest
+
+        Interested candidates may contact [Weiwei He](https://warrenheww.github.io/) with the following materials:
+
+        - A curriculum vitae (CV)
+        - A brief description of research interests and relevant experience
+        - Academic transcripts for student applicants
+        - One or two representative papers, preprints, or project examples, if available
+
+        Early enquiries are welcome. Specific openings, eligibility requirements, application procedures, and anticipated start dates will be posted here once the institutional recruitment arrangements are finalized.
+
+        ## Our Research Environment
+
+        We aim to build an interdisciplinary, collaborative, and supportive research environment. Group members will be encouraged to develop strong foundations in molecular science, computation, and data-driven modeling while pursuing independent ideas and working across disciplinary boundaries.
     design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      columns: "1"
+
+  # ==========================================================
+  # SUAT location and map
+  # ==========================================================
+  - block: contact
+    content:
+      title: Location
+      text: |-
+        [Shenzhen University of Advanced Technology (SUAT)](https://www.suat-sz.edu.cn/en/)
+
+      address:
+        street: No. 1 Gongchang Road
+        city: Shenzhen
+        region: Guangdong
+        postcode: "518107"
+        country: China
+        country_code: CN
+
+      coordinates:
+        latitude: "22.8033"
+        longitude: "113.9633"
+
+      autolink: true
+
+      # Keep the form provider empty to disable the contact form.
+      form:
+        provider: ""
+
+    design:
+      columns: "1"
 ---
