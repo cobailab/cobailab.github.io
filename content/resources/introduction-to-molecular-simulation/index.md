@@ -30,6 +30,7 @@ Introduction to molecular simulation methods and their applications to biomolecu
 
 Course materials available here.
 - [Lecture notes](/downloads/teaching/lecture-notes.pdf)
+- [Colab documentation](/downloads/teaching/GROMACS_SAXS.ipynb)
 
 ## Topics
 
