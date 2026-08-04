@@ -24,7 +24,7 @@ sections:
 
   - block: collection
     content:
-      title: Teaching
+      title: Teaching and Lecture Notes
       subtitle: ""
       text: "Course materials, tutorials, and educational resources will be added here."
       count: 0
