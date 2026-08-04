@@ -7,4 +7,3 @@ banner:
   image: ""
 ---
 
-† Equal contribution; * Corresponding author.
