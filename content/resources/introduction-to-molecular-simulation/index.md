@@ -30,12 +30,11 @@ These teaching materials provide an introduction to molecular simulation methods
 
 ## Materials
 
-Course materials will be made available here.
+Course materials available here.
 - [e.g. Lecture notes](/downloads/teaching/introduction-to-molecular-simulation/lecture-notes.pdf)
 
 ## Topics
 
 - Molecular simulation fundamentals
 - Force fields and molecular interactions
-- Molecular dynamics workflows
 - Structural analysis and visualization
