@@ -1,7 +1,7 @@
 ---
 title: "2026 International Workshop on Biophysics, Protein Engineering and Computational Biology"
 
-draft: true
+draft: false
 
 event: "2026 International Workshop on Biophysics, Protein Engineering and Computational Biology"
 event_url: "https://computational-chemistry-conference.shanghai.nyu.edu/page/home"
@@ -53,7 +53,7 @@ slides: ""
 projects: []
 ---
 
-Weiwei He presented his research at the **2026 International Workshop on Biophysics, Protein Engineering and Computational Biology**, held at **NYU Shanghai** on July 21–23, 2026. The workshop, orgnized by Prof. [Fei Xia](https://faculty.ecnu.edu.cn/_s34/xf2/main.psp), brought together researchers working across biophysics, protein engineering, computational biology, artificial intelligence, and molecular simulation.
+Weiwei He presented his research at the **2026 International Workshop on Biophysics, Protein Engineering and Computational Biology**, held at **NYU Shanghai** on July 21–23, 2026. The workshop, orgnized by Profs. [Fei Xia](https://faculty.ecnu.edu.cn/_s34/xf2/main.psp), [John Zhang](https://research.shanghai.nyu.edu/centers-and-institutes/chemistry/people/john-zenghui-zhang), and [Mark Tuckerman](https://research.shanghai.nyu.edu/centers-and-institutes/chemistry/people/mark-tuckerman), brought together researchers working across biophysics, protein engineering, computational biology, artificial intelligence, and molecular simulation.
 
 ![Research presentations](featured.jpg)
 ![Research presentations 2](workshop-photo-2.jpg)
