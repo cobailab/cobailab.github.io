@@ -1,0 +1,10 @@
+{{- define "main" -}} {{/* Author profile page. */}} {{/* If an account has not been created for this user, just display their name as the title. */}} {{ if not .File }}
+{{ .Title }}
+{{ end }}
+{{/* Show the About block if an account exists for this user. */}} {{ if .File }} {{ $widget := "blocks/v1/about.html" }} {{ $username := (path.Base .File.Dir) }} {{ $params := dict "wcPage" $ "wcBlock" . "author" $username }} {{ partial $widget $params }} {{ end }} {{/* These two values can be set in content/authors//_index.md. */}} {{ $show_latest := true }} {{ if isset .Params "show_latest" }} {{ $show_latest = .Params.show_latest }} {{ end }} {{ $latest_count := 3 }} {{ if isset .Params "latest_count" }} {{ $latest_count = .Params.latest_count }} {{ end }} {{ if $show_latest }} {{ $query := where .Pages.ByDate.Reverse ".IsNode" false }} {{ $query = first $latest_count $query }} {{ $count := len $query }} {{ if $count }}
+{{ i18n "user_profile_latest" | default "Latest" }}
+	•	{{ range $query }}
+	•	{{ .Title }}
+	•	{{ end }}
+{{ end }} {{ end }}
+{{- end -}}
