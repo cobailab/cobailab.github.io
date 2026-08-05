@@ -22,7 +22,7 @@ publication_types:
   - manuscript
 
 publication: "Biomacromolecules"
-publication_short: "Accepted"
+publication_short: "Biomacromolecules (Accepted)"
 
 doi: ""
 abstract: ""
