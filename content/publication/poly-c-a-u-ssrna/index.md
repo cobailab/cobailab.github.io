@@ -15,14 +15,14 @@ author_notes:
   - "Corresponding author"
   - "Corresponding author"
 
-date: "2026-01-01T00:00:00Z"
+date: "2026-08-03T00:00:00Z"
 publishDate: "2026-08-01T00:00:00Z"
 
 publication_types:
   - manuscript
 
-publication: "Manuscript under revision"
-publication_short: "Under revision"
+publication: "Biomacromolecules"
+publication_short: "Accepted"
 
 doi: ""
 abstract: ""
