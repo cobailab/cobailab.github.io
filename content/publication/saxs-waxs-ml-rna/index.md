@@ -23,7 +23,7 @@ abstract: ""
 summary: "An interpretable machine-learning framework that connects SAXS/WAXS measurements with RNA structural features."
 
 tags:
-  - Manuscript
+  - Published
   - RNA
   - SAXS
   - WAXS
