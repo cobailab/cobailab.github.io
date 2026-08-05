@@ -26,7 +26,7 @@ sections:
 
         Applicants from chemistry, physics, computational biology, bioinformatics, computer science, applied mathematics, and related disciplines are encouraged to get in touch. Prior experience in molecular simulation, machine learning, nucleic-acid research, or scientific programming is helpful but not required for every position.
 
-        Interested candidates can [email Weiwei He](mailto:weiwei.he@nyu.edu) with a CV, a brief statement of research interests, academic transcripts (for student applicants), and 1-2 representative papers/preprints/project examples (if available). Applicants can generally expect a response within 1-2 weeks.
+        Interested candidates can email at hww5128[at]gmail.com with a CV, a brief statement of research interests, academic transcripts (for student applicants), and 1-2 representative papers/preprints/project examples (if available). Applicants can generally expect a response within 1-2 weeks.
 
         **Email subject line format:**
 
