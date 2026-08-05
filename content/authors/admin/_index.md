@@ -66,6 +66,10 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
+# Control the Latest section on the author profile
+show_latest: true
+latest_count: 3
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
