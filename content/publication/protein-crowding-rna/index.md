@@ -20,7 +20,7 @@ publication_types:
   - manuscript
 
 publication: "*Nucleic Acids Research*"
-publication_short: "Nucleic Acids Res. (Under revision)"
+publication_short: "*Nucleic Acids Res.* (Accepted)"
 
 doi: ""
 abstract: "The intracellular environment is densely populated with macromolecules, creating crowded conditions. Whether in vitro environments or synthetic crowders like polyethylene glycol (PEG) accurately capture the complexity of RNA interactions in vivo remains unclear. Using all-atom molecular dynamics simulations, we investigated the HIV-1 TAR RNA hairpin in dilute, PEG-crowded, and realistic protein-crowded solutions. We found that PEG primarily exerts excluded-volume effects, maintaining RNA hydration and Na
