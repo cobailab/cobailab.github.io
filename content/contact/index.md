@@ -33,7 +33,7 @@ sections:
         - **PhD applicants:**  
           `[CoBAI PhD Application] Your Name | Current Institution`
 
-        - **Research Assistants (RA):**
+        - **Research Assistants (RA):**  
           `[CoBAI RA Application] Your Name | Current Institution | Expected Duration (X months)`
 
         - **Postdoctoral applicants:**  
