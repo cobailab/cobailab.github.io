@@ -13,7 +13,7 @@ date: "2026-07-14T00:00:00Z"
 publishDate: "2026-08-01T00:00:00Z"
 
 publication_types:
-  - manuscript
+  - published
 
 publication: "*Frontiers in Biophysics*, **4**"
 publication_short: "*Front. Biophys.*"
