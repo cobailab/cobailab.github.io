@@ -15,8 +15,8 @@ publishDate: "2026-08-01T00:00:00Z"
 publication_types:
   - manuscript
 
-publication: "Frontiers in Biophysics"
-publication_short: "Front. Biophys."
+publication: "*Frontiers in Biophysics*, **4**"
+publication_short: "*Front. Biophys.*"
 
 doi: "https://doi.org/10.3389/frbis.2026.1769000"
 abstract: ""
