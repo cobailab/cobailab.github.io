@@ -21,8 +21,8 @@ publishDate: "2026-08-01T00:00:00Z"
 publication_types:
   - manuscript
 
-publication: "Biomacromolecules"
-publication_short: "Biomacromolecules (Accepted)"
+publication: "*Biomacromolecules*"
+publication_short: "*Biomacromolecules* (Accepted)"
 
 doi: ""
 abstract: ""
