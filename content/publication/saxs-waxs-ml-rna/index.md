@@ -9,16 +9,16 @@ author_notes:
   - ""
   - "Corresponding author"
 
-date: "2026-01-01T00:00:00Z"
+date: "2026-07-14T00:00:00Z"
 publishDate: "2026-08-01T00:00:00Z"
 
 publication_types:
   - manuscript
 
-publication: "Manuscript under review"
-publication_short: "Under review"
+publication: "Frontiers in Biophysics"
+publication_short: "Front. Biophys."
 
-doi: ""
+doi: "https://doi.org/10.3389/frbis.2026.1769000"
 abstract: ""
 summary: "An interpretable machine-learning framework that connects SAXS/WAXS measurements with RNA structural features."
 
@@ -32,7 +32,7 @@ tags:
 featured: false
 draft: false
 
-url_pdf: ""
+url_pdf: "https://www.frontiersin.org/journals/biophysics/articles/10.3389/frbis.2026.1769000/full"
 url_code: ""
 url_dataset: ""
 url_project: ""
