@@ -3,7 +3,7 @@ title: "The structural plasticity of nucleic acid duplexes revealed by WAXS and 
 
 authors:
   - admin
-  - "Y. Chen"
+  - "Yenlin Chen"
   - "Lois Pollack"
   - "Serdal Kirmizialtin"
 
