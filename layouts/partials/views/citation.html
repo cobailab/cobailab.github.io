@@ -27,9 +27,9 @@
 {{/* Show career-stage headings only on the main /publication/ section page. */}}
 {{ if $is_publication_archive }}
   {{ if eq $item.RelPermalink $latest_suat_permalink }}
-    <h2 class="mt-4 mb-4">SUAT Publications</h2>
+    <h2 class="mt-4 mb-4">SUAT Publication</h2>
   {{ else if eq $item.RelPermalink $latest_pre_suat_permalink }}
-    <h2 class="mt-4 mb-4">Pre-SUAT Publications</h2>
+    <h2 class="mt-4 mb-4">Pre-SUAT Publication</h2>
   {{ end }}
 {{ end }}
 
